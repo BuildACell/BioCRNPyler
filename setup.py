@@ -29,7 +29,7 @@ setup(
             "numpy",
             "matplotlib",
             "networkx",
-            "bokeh>=1.4.0",
+            "bokeh",
             "fa2"
             ],
         },
